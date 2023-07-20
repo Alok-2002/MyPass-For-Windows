@@ -71,5 +71,6 @@ If you have any questions or need assistance with MyPass, you can contact us at:
 
 - Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
 - GitHub Repository: [https://github.com/alok-2002/mypass](https://github.com/alok-2002/mypass)
+- LinkedIn : [Alok Sharma](https://linkedin.com/in/alok-sharma2002-)
 
 We hope you find MyPass helpful in managing your passwords. If you have any feedback or suggestions for improvement, feel free to open an issue or a pull request. Happy password managing!
